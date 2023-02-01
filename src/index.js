@@ -19,6 +19,6 @@ import App from './components/app/App'
 const root = ReactDOM.createRoot(document.getElementById('root'))
 root.render(
   <StrictMode>
-    <h1>hello world</h1>
+ <h1>hello world</h1>
   </StrictMode>
 )
